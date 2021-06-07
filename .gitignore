@@ -1,0 +1,4 @@
+#Secret key
+usuarios/secret.json
+#venv
+env/
